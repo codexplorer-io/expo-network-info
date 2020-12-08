@@ -1,0 +1,11 @@
+{
+  "name": "@codexporer.io/expo-network-info",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "react": "*",
+    "react-magnetic-di": "*",
+    "@react-native-community/netinfo": "*",
+    "@codexporer.io/react-test-utils": "*"
+  }
+}
